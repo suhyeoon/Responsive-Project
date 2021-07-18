@@ -9,15 +9,6 @@ $(function(){
         }
     });
     
-    /* gnb event */
-//    $(window).resize(function(){
-//        if($(window).width() > 980){
-//            $('#header').addClass('on');
-//        }else{
-//            $('#header').removeClass('on');
-//        }
-//    });
-    
     /* gnb */
     $('#gnb .depth1>a').on('click', function(event){
         event.stopPropagation();
