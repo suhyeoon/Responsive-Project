@@ -243,32 +243,14 @@
 /* E: ir */
 /* :::::::::::::::::::: E: MAIN :::::::::::::::::::: */
 @media all and (max-width:1200px){
-    /* S: visual */
-    /* E: visual */
-
-    /* S: promotion */
-    /* E: promotion */
-
     /* S: info */
     .info{padding: 50px 0;}
     .info li{width: 31.333%;margin: 0 1%;}
     /* E: info */
     
-    /* S: product */
-    /* E: product */
-
-    /* S: technology */
-    /* E: technology */
-
-    /* S: agency */
-    /* E: agency */
-
     /* S: notice */
     .notice .notice-cont{width: 46%;height: auto;margin: 0 2%;}
     /* E: notice */
-
-    /* S: ir */
-    /* E: ir */
 }
 @media all and (max-width:980px){  
     #main .tit{margin-bottom: 17px;
@@ -289,9 +271,6 @@
     .promotion{padding: 34px 10px;}
     .promotion iframe{width: 100%;height: 220px;margin-top: 18px;}
     /* E: promotion */
-
-    /* S: info */
-    /* E: info */
 
     /* S: product */
     .product{padding-top: 32px;}
@@ -351,10 +330,7 @@
     .visual .visual-txt strong{font-size: 28px;}
     .visual .visual-txt em{display: none;}
     /* E: visual */
-
-    /* S: promotion */
-    /* E: promotion */
-
+    
     /* S: info */
     .info{padding: 10px;}
     .info li{width: 100%;margin: 0;}
@@ -376,9 +352,6 @@
     }
     .technology p{font-size: 10px;font-weight: 400;line-height: 15px;}
     /* E: technology */
-
-    /* S: agency */
-    /* E: agency */
 
     /* S: notice */
     .notice{padding: 10px;}
@@ -402,48 +375,18 @@
     .visual .slide04{background-image: url(/img/visual-slide04-m.jpg);}
     /* E: visual */
 
-    /* S: promotion */
-    /* E: promotion */
-
-    /* S: info */
-    /* E: info */
-
-    /* S: product */
-    /* E: product */
-
     /* S: technology */
     .technology li{padding: 0 15px;}
     .technology li a img{width: 100%;height: 100%;}
     .technology li a::after{width: 100%;height: 100%;}
     .technology p br{display: none;}
-    
     /* E: technology */
-
-    /* S: agency */
-    /* E: agency */
-
-    /* S: notice */
-    /* E: notice */
-
-    /* S: ir */
-    /* E: ir */
 }
 @media all and (max-width:430px){
-    /* S: visual */
-    /* E: visual */
-
-    /* S: promotion */
-    /* E: promotion */
 
     /* S: info */
     .info li{padding: 20px;}
     /* E: info */
-
-    /* S: product */
-    /* E: product */
-
-    /* S: technology */
-    /* E: technology */
 
     /* S: agency */
     .agency figure img{width: 100%;height: 100%;}
@@ -452,11 +395,7 @@
     .agency a{width: 100%;}
     /* E: agency */
 
-    /* S: notice */
-    /* E: notice */
-
-    /* S: ir */
-    
+    /* S: ir */  
     .ir li{width: 46%;margin: 0 1% !important;}
     /* E: ir */
 }
