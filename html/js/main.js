@@ -1,5 +1,4 @@
 $(function(){
-
     /* scroll event */
     $(window).scroll(function(){
         if($(window).scrollTop()>60){
@@ -29,5 +28,4 @@ $(function(){
     $('.f-btn').on('click', function(){
         $('.f-family>ul').slideToggle(0,"easeOutQuint");
     });
-
 });
