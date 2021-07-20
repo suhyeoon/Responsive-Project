@@ -9,5 +9,5 @@ var swiper = new Swiper('.visual-ban', {
         navigation: {
             nextEl: '.swiper-button-next',
             prevEl: '.swiper-button-prev',
-        },
+        }
 });
