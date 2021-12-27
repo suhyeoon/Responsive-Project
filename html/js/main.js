@@ -28,12 +28,4 @@ $(function(){
     $('.f-btn').on('click', function(){
         $('.f-family>ul').slideToggle(0,"easeOutQuint");
     });
-    
-    function Product(name, price) {
-      this.name = name;
-      this.price = price;
-      this.getInfo = function() {
-        return this.name + " , " + this.price;
-      }
-    }
 });
